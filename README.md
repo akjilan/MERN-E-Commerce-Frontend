@@ -23,6 +23,30 @@ You can access the live application at [https://e-shopit.vercel.app/](https://e-
 - ReactJS
 - NodeJS
 - ExpressJS
+
+
+## 🚀 Getting Started
+
+### Installation
+
+npm install
+npm start
+
+Open http://localhost:3000 in your browser
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root directory and add:
+
+REACT_APP_API_URL=your_backend_api_url
+
+Make sure the backend server is running before starting the frontend.
+
+---
+
+
 ## Images
 
 ![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Stat1_asehhd.png)
